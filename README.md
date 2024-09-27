@@ -1,2 +1,1 @@
-[Curriculo
-](https://github.com/PatolinoOMag0/Meu-Curr-culo.git)
+http://127.0.0.1:5500/index.html
